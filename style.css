@@ -107,15 +107,26 @@ button {
   text-align: right;
   padding-bottom: 64px;
 }
-
+/* Call
+.sign-up {
+    background-color: #3882F6 ;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+}
+*/
 .callbox{
-  border-radius: 8px;
   background-color: #3882F6;
+  margin: 50px 200px;
+  padding: 10px 80px;
   display: flex;
-  justify-items: space-between;
-  justify-content: center;
   align-items: center;
-  margin: 50px 0 70px 0;
+  border-radius: 8px;
+  border-color: none;
+  
 }
 
 .callbox h4{
