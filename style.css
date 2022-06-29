@@ -136,11 +136,25 @@ button {
   color: #F9FAF8;
 }
 
-.callbox h6{
-  display: flex;
-  padding: 0 0 0 50px;
-  margin: 0;
-  color: #F9FAF8;
+.call-item{
+  flex: 1;
+}
+
+.call-text{
+  text-align: left;
+}
+
+.call-text p{
+  color: #fff;
+    opacity: 0.7;
+    margin: 5px 30px 30px 50px;
+}
+
+h4 {
+  color: #fff;
+  font-family: 'Roboto', arial;
+  padding: 0;
+  margin: 30px 0px 0px 50px;
 }
 
 .callbutton{
